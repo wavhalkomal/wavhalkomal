@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **wavhalkomal/wavhalkomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi! I'm Komal Wavhal
+# Hi 👋! I'm Komal Wavhal
 A Technology Enthusiast. I ♥ to Code & Make cool stuff.
 A Software Developer who loves to learn and try new tools & technologies passionately
 
