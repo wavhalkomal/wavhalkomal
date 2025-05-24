@@ -48,4 +48,5 @@ Recognized with multiple awards, including the JPMorgan Innovation Award, Corpor
 Let’s connect if you're building something impactful in AI, data science, or intelligent automation!
 
  
-- 📫 How to reach me: wavhalkomal7@gmail.com or kwavhal@stevens.edu
+# 📫 How to reach me: 
+wavhalkomal7@gmail.com or kwavhal@stevens.edu
