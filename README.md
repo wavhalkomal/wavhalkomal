@@ -42,8 +42,7 @@ Recognized with multiple awards, including the JPMorgan Innovation Award, Corpor
 
 📚 I hold 40+ certifications from Google, Microsoft, AWS, Tableau, and more - constantly upskilling in LLMs, generative AI, and cloud-based AI solutions.
 
-🌍 When I’m not coding, you’ll find me exploring novels, travelogues, and cultural narratives-fueling both my creativity and empathy in building user-centric AI.
-Let’s connect if you're building something impactful in AI, data science, or intelligent automation!
+🌍 When I’m not deep in code, I’m chasing sunsets in new cities in the United States of America, collecting memories with every step I take and each journey adds a meaningful chapter to my story. Fashion is my second language - I’ve always dreamed of strutting the runway and lighting up the screen as a model and actress. Every outfit is a mood, every moment a story. ✨👠🎬 
 
 🔍 Looking for opportunities as a Machine Learning Engineer, AI Researcher, or Data Scientist to design, develop, and deploy intelligent systems that drive innovation and deliver value.
 
